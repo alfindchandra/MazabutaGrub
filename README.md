@@ -11,6 +11,7 @@
 <img src="/public/images/maza1.png" alt="Logo" width={100} height={100} />
 <img src="/public/images/maza2.png" alt="Logo" width={100} height={100} />
 <img src="/public/images/maza3.png" alt="Logo" width={100} height={100} />
-<img src="/public/images/maza4.png" alt="Logo" width={100} height={100} />
-<h3>Halaman Detail Berita</h3>
 <img src="/public/images/maza5.png" alt="Logo" width={100} height={100} />
+<img src="/public/images/maza6.png" alt="Logo" width={100} height={100} />
+<h3>Halaman Detail Berita</h3>
+<img src="/public/images/maza7.png" alt="Logo" width={100} height={100} />
